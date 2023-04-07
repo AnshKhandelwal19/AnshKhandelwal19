@@ -5,7 +5,7 @@ I learned java for the first time 6 years ago. Ever since then I have wanted to 
 
 * 🌍  I'm based in San Ramon
 * ✉️  You can contact me at [khandelwalansh8@gmail.com](mailto:khandelwalansh8@gmail.com)
-* 🚀  I'm currently working on [TechWebScraper](https://github.com/AnshKhandelwal19/TechWebScraper)
+<!--* 🚀  I'm currently working on [TechWebScraper](https://github.com/AnshKhandelwal19/TechWebScraper) -->
 * 🧠  I'm learning Rest API's
 * 🤝  I'm open to collaborating on any project I can learn something with
 
@@ -22,7 +22,7 @@ I learned java for the first time 6 years ago. Ever since then I have wanted to 
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Ansh#0484" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/AnshKhandelwal19" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/khandelwalansh8/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ansh-khandelwal-049b6a235/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/Ansh#0484" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></a> <a href="http://www.instagram.com/anshywanshy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ansh-khandelwal-049b6a235/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
