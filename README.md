@@ -5,9 +5,9 @@ I learned java for the first time 6 years ago. Ever since then I have wanted to 
 
 * 🌍  I'm based in San Ramon
 * ✉️  You can contact me at [khandelwalansh8@gmail.com](mailto:khandelwalansh8@gmail.com)
-<!--* 🚀  I'm currently working on [TechWebScraper](https://github.com/AnshKhandelwal19/TechWebScraper) -->
 * 🧠  I'm learning Rest API's
 * 🤝  I'm open to collaborating on any project I can learn something with
+<!--* 🚀  I'm currently working on [TechWebScraper](https://github.com/AnshKhandelwal19/TechWebScraper) -->
 
 ### Skills
 
