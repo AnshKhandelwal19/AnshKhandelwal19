@@ -4,7 +4,7 @@ Hi 👋 My name is Ansh Khandelwal
 I learned java for the first time 6 years ago. Ever since then I have wanted to become a software engineer, and have learned coding languages both in class and on my own purely out of love and curiosity. I now am comfortable coding in 3 languages: C++, Java, and Python.
 
 * 🌍  I'm based in San Ramon
-* ✉️  You can contact me at [khandelwalansh8@gmail.com](mailto:khandelwalansh8@gmail.com)
+* ✉️  You can contact me at [anshswe21@gmail.com](mailto:anshswe218@gmail.com)
 * 🧠  I'm learning Rest API's
 * 🤝  I'm open to collaborating on any project I can learn something with
 <!--* 🚀  I'm currently working on [TechWebScraper](https://github.com/AnshKhandelwal19/TechWebScraper) -->
