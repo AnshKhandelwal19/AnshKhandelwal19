@@ -56,8 +56,8 @@ Rubik’s Cube timer with:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnshKhandelwal19&show_icons=true&count_private=true&cache_seconds=7200&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshKhandelwal19&layout=compact&cache_seconds=7200&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-godkingjay.vercel.app/api?username=AnshKhandelwal19&show_icons=true&count_private=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=AnshKhandelwal19&layout=compact&theme=tokyonight)
 
 ---
 
